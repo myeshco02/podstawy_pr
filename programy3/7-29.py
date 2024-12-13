@@ -7,6 +7,6 @@ def factorial(n):
         return n * factorial(n - 1)
 
 # Obliczenie silni dla n = 5
-n = 5
+n = 8
 result = factorial(n)
 print(f"Silnia {n}! wynosi {result}")
